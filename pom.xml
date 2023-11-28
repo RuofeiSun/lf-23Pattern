@@ -12,6 +12,7 @@
         <module>FactoryMethod</module>
         <module>AbstractFactory</module>
         <module>Singleton</module>
+        <module>Prototype</module>
     </modules>
 
 
