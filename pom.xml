@@ -13,6 +13,8 @@
         <module>AbstractFactory</module>
         <module>Singleton</module>
         <module>Prototype</module>
+        <module>Builder</module>
+        <module>ObjectPool</module>
     </modules>
 
 
