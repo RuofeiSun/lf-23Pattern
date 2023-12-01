@@ -15,6 +15,7 @@
         <module>Prototype</module>
         <module>Builder</module>
         <module>ObjectPool</module>
+        <module>Adapter</module>
     </modules>
 
 
