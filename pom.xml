@@ -17,6 +17,7 @@
         <module>ObjectPool</module>
         <module>Adapter</module>
         <module>Bridge</module>
+        <module>Composite</module>
     </modules>
 
 
