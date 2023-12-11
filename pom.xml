@@ -18,6 +18,7 @@
         <module>Adapter</module>
         <module>Bridge</module>
         <module>Composite</module>
+        <module>Decorator</module>
     </modules>
 
 
