@@ -19,6 +19,9 @@
         <module>Bridge</module>
         <module>Composite</module>
         <module>Decorator</module>
+        <module>Facade</module>
+        <module>Flyweight</module>
+        <module>Proxy</module>
     </modules>
 
 
