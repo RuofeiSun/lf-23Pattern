@@ -22,6 +22,8 @@
         <module>Facade</module>
         <module>Flyweight</module>
         <module>Proxy</module>
+        <module>ChainofResponsibility</module>
+        <module>Command</module>
     </modules>
 
 
