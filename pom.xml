@@ -30,6 +30,7 @@
         <module>Memento</module>
         <module>Observer</module>
         <module>State</module>
+        <module>Strategy</module>
     </modules>
 
 
