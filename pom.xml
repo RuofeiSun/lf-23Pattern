@@ -25,6 +25,7 @@
         <module>ChainofResponsibility</module>
         <module>Command</module>
         <module>Interpreter</module>
+        <module>Iterator</module>
     </modules>
 
 
